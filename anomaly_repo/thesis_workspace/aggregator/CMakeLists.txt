@@ -16,8 +16,5 @@ add_executable(aggregator src/aggregator.cpp)
 ament_target_dependencies(aggregator rclcpp n2k_ros2_shared_msgs std_msgs)
 
 install(TARGETS aggregator DESTINATION lib/${PROJECT_NAME})
-# uncomment the following section in order to fill in
-# further dependencies manually.
-# find_package(<dependency> REQUIRED)
 
 ament_package()
