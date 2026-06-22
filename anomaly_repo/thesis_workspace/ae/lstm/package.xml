@@ -4,7 +4,7 @@
   <name>lstm</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="updatelater@users.noreply.github.com">rdros2</maintainer>
+  <maintainer email="updatelater@users.noreply.github.com">dashecc</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
